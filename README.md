@@ -7,6 +7,8 @@ Engineered features from the text of each job description to quantify the value 
 Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 Built a client facing API using flask
 
+![](https://github.com/Al8643/Portfolio/blob/main/images/portfolio1.png)
+
 # [Project 2: Ball Image Classifier](https://github.com/Al8643/Portfolio)
 For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
 
